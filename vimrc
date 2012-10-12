@@ -1,3 +1,4 @@
+runtime bundle/vim-pathogen/autoload/pathogen.vim
 call pathogen#infect()
 
 " For details on keeping this config up to date with git, see:
