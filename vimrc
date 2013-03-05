@@ -21,7 +21,10 @@ set textwidth=79
 
 " folding settings
 set foldmethod=indent
-set foldlevel=99
+"set foldlevel=2
+set foldnestmax=2
+nnoremap <space> za
+
 
 filetype on
 filetype plugin on
