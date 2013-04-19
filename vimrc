@@ -22,7 +22,7 @@ set textwidth=79
 " folding settings
 set foldmethod=indent
 "set foldlevel=2
-set foldnestmax=2
+set foldnestmax=1
 nnoremap <space> za
 
 
