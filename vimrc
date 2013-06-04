@@ -18,6 +18,7 @@ set showmode
 set showmatch
 set hlsearch
 set textwidth=79
+set background=dark
 
 " folding settings
 set foldmethod=indent
