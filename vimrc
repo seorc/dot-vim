@@ -96,3 +96,6 @@ map <c-h> <c-w>h
 "nnoremap <C-n> :m+<CR>==
 "vnoremap <C-n> :m'>+<CR>gv=gv
 "inoremap <C-n> <Esc>:m+<CR>==gi
+
+let g:SuperTabMappingForward = '<c-space>'
+let g:SuperTabMappingBackward = '<s-c-space>'
