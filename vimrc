@@ -40,7 +40,7 @@ filetype plugin indent on
 au VimEnter *.py,*.rst set expandtab
 
 " highlight lines longer than 79 chars, when programming
-au VimEnter *.py,*.js,*.php let w:m2=matchadd('ErrorMsg', '\%>79v.\+', -1)
+au VimEnter *.py let w:m2=matchadd('ErrorMsg', '\%>79v.\+', -1)
 
 " prevent text wrapping in programming langages
 au VimEnter *.py,*.js,*.php,*.html set textwidth=0
