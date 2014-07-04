@@ -55,3 +55,6 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = http://github.com/tpope/vim-surround
+[submodule "bundle/rope"]
+	path = bundle/rope
+	url = https://github.com/python-rope/rope.git
