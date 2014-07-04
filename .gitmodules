@@ -31,9 +31,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/vim-scripts/The-NERD-tree.git
-[submodule "bundle/rope"]
-	path = bundle/rope
-	url = https://github.com/sontek/rope-vim.git
 [submodule "bundle/searchcomplete"]
 	path = bundle/searchcomplete
 	url = https://github.com/vim-scripts/SearchComplete.git
