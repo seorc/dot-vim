@@ -38,6 +38,7 @@ filetype plugin indent on
 
 " use spaces istead of \t for py files (following PEP-8)
 au VimEnter *.py,*.rst set expandtab
+au VimEnter *.rb,*.erb set ts=2 sw=2 expandtab
 
 " highlight lines longer than 79 chars, when programming
 au VimEnter *.py let w:m2=matchadd('ErrorMsg', '\%>79v.\+', -1)
