@@ -78,3 +78,6 @@
 	path = bundle/rope
 	url = https://github.com/python-rope/rope.git
 	branch = master
+[submodule "bundle/editorconfig-vim"]
+	path = bundle/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
